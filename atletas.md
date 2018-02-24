@@ -1,2 +1,3 @@
 # Melhores atletas
-Gabriel Medina
+  Gabriel Medina 
+Hanyu Hazuru 
